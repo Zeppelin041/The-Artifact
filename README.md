@@ -16,3 +16,5 @@ I followed a systematic approach to debugging by testing each feature incrementa
 5. Where did you have to be innovative to overcome a challenge in the full application development process?
 The primary challenge was dynamically updating the UI to reflect user actions while maintaining data integrity. I had to innovate by combining back-end logic (tracking registered courses and credit hours) with front-end elements (updating ListBox and TextBox values). This required thoughtful synchronization between code and design to ensure the application responded accurately to user inputs.
 
+Over all this was a fun experience for a beginner!
+
