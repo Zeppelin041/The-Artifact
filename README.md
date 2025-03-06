@@ -1,5 +1,5 @@
 # The-Artifact
-Portfolio
+College project in IT 230
 
 1. Briefly summarize the requirements and goals of the application you developed. What user needs was this application designed to address?
 The goal of this application was to develop a course registration system that allows students to register for courses interactively. It needed to enforce specific business rules, such as limiting total credit hours to nine and preventing duplicate course registration. The application was designed to meet the need for a straightforward, user-friendly interface for selecting courses, tracking registrations, and ensuring accurate credit hour totals.
